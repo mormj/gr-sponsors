@@ -9,12 +9,11 @@
     <td> <img src="grcon21_logos/RadioResilience_Monogram_wText.png" width=400px></td>
    </tr> 
 </table>
-<table width=600px style="border:0px;margin-left:auto;margin-right:auto;">
+<table width=300px style="border:0px;margin-left:auto;margin-right:auto;">
    <tr>
       <td><img src="./grcon21_logos/Analog_Devices_Logo.svg" width=300px></td>
       <td><img src="./grcon21_logos/epiq.png" width=300px></td>
       <td><img src="./grcon21_logos/Comm-Logo-RGB.jpg" width=300px></td>
-      <td></td>
   </tr>
 </table>
 <table>
